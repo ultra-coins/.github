@@ -14,3 +14,5 @@ Ultra-Coinsとは、情報科学類生とOB・OG向けの超正統派コンピ�
 **https://hottate.ultra.coins.tsukuba.ac.jp/**
 
 ### ブログ
+
+**https://ultra.coins.tsukuba.ac.jp/blog/**
