@@ -11,7 +11,7 @@ Ultra-Coinsとは、情報科学類生とOB・OG向けの超正統派コンピ�
 
 ### テキストベースの Web ブラウザ用のウェブサイト
 
-**https://hottate.ultra.coins.tsukuba.ac.jp/**
+**https://ultra.coins.tsukuba.ac.jp/hottate/**
 
 ### ブログ
 
